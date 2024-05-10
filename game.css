@@ -1,0 +1,45 @@
+#titulo {
+    text-align: center;
+}
+
+#ask{
+    margin-left: 40px;
+}
+
+div {
+    margin-left: 25%;
+    margin-top: 6%;
+    border-radius: 30px;
+    border: white solid 3px;
+    width: 50% ;
+    height: 47%;
+    background-color: black;
+    color: white;
+}
+
+#butt {
+    background-color: purple;
+    margin-left: 3px;
+    border-radius: 150px;
+    height: 35px;
+    width: 100px;
+    color: white;
+    border-color: black;
+
+
+}
+
+#pc {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+body {
+    background-color: gray
+
+
+}
+
+.subtitulo {
+    margin-left: 30px;
+}
